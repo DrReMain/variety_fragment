@@ -18,10 +18,10 @@ typedef struct
 
     Monster *bad_guy;
 
-    struct Room *north;
-    struct Room *south;
-    struct Room *east;
-    struct Room *west;
+    Room *north;
+    Room *south;
+    Room *east;
+    Room *west;
 } Room;
 
 void *Room_move(void *self, Direction direction);
