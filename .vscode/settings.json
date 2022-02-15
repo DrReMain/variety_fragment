@@ -1,6 +1,15 @@
 {
     "files.associations": {
         "string.h": "c",
-        "dbg.h": "c"
+        "dbg.h": "c",
+        "bstrlib.h": "c",
+        "db.h": "c",
+        "unistd.h": "c",
+        "apr_errno.h": "c",
+        "stdio.h": "c",
+        "apr_lib.h": "c",
+        "apr_getopt.h": "c",
+        "apr_general.h": "c",
+        "apr_pools.h": "c"
     }
 }
